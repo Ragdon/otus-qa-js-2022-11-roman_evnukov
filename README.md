@@ -1,1 +1,1 @@
-Создано в рамках курса OTUS JavaScript QA Engin
+ Создано в рамках курса OTUS JavaScript QA Engin
